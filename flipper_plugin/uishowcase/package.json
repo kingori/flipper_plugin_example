@@ -1,0 +1,12 @@
+{
+  "name": "ui_showcase",
+  "version": "1.0.0",
+  "description": "UI component showcase",
+  "main": "index.tsx",
+  "author": "kingori",
+  "license": "MIT",
+  "title": "UI Showcase",
+  "dependencies": {
+      "flipper": "latest"
+  }
+}

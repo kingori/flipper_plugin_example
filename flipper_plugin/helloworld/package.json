@@ -1,0 +1,12 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hellworld flipper plugin",
+  "main": "index.tsx",
+  "author": "kingori",
+  "license": "MIT",
+  "title": "HelloWorld",
+  "dependencies": {
+      "flipper": "latest"
+  }
+}
